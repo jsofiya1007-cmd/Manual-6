@@ -1,0 +1,111 @@
+1. Explain about Defect Life Cycle.
+
+The Defect Life Cycle (or Bug Life Cycle) is the structured process a defect follows from discovery to closure,
+ensuring systematic handling and accountability in software testing.
+It typically includes stages like New, Assigned, In Progress, Fixed, Verified, and Closed.
+
+What is the Defect Life Cycle?
+
+The Defect Life Cycle (also called Bug Life Cycle) is the sequence of stages a defect passes through during its existence in a software project.
+
+It starts when a defect is identified and ends when it is closed after verification.
+
+This cycle provides visibility, accountability, and control over defect management, helping teams maintain software quality.
+
+Standard Stages of the Defect Life Cycle:
+Here’s a typical flow:
+
+
+Stage	                            Description
+New              	   Tester discovers and reports the defect.
+Assigned           	Defect is assigned to a developer for fixing.
+In Progress     	  Developer starts working on the defect.
+Fixed	Developer     resolves the defect and marks it as fixed.
+Verified	          Tester re-tests to confirm the fix works correctly.
+Closed	            If verified successfully, the defect is closed.
+Reopened	          If the fix fails, the defect is reopened and sent back to the developer.
+Deferred/Rejected 	Sometimes defects are postponed (deferred) or considered invalid (rejected).
+
+Why is the Defect Life Cycle Important?
+
+Prevents defects from being overlooked by ensuring every bug has a clear status.
+
+Improves communication between testers, developers, and managers.
+
+Helps prioritize defects based on severity and impact.
+
+Ensures accountability by defining ownership at each stage
+
+
+2. What is Test Metrics? Explain with example. 
+
+What are Test Metrics?
+Test Metrics are quantitative measures used to assess the efficiency, effectiveness, and quality of the software testing process.
+
+They provide objective data to track progress, identify bottlenecks, and improve overall testing practices.
+
+In simple terms: Metrics help you measure how well testing is being done and how good the product quality is.
+
+Types of Test Metrics
+Here are some commonly used categories:
+
+Process Metrics
+
+Measure the efficiency of the testing process.
+
+Example: Test Case Execution Rate (how many test cases are executed per day).
+
+Product Metrics
+
+Measure the quality of the software product.
+
+Example: Defect Density (number of defects per module or per lines of code).
+
+Project Metrics
+
+Measure project progress and resource utilization.
+
+
+Example: Test Effort Variance (difference between planned vs. actual testing effort).
+
+Examples of Test Metrics
+Metric	                                                          Formula	                                                        Example
+Defect Density                  	        Defects found / Size of module (LOC or Function Points)	                   20 defects in a 1000 LOC module → 0.02 defects per LOC
+Test Case Execution Rate                 	(Number of test cases executed / Total test cases) × 100%     	           80 executed out of 100 → 80% execution rate
+Defect Removal Efficiency (DRE)	          (Defects removed during testing / Total defects found) × 100%	             90 defects removed out of 100 → 90% DRE
+Test Coverage	                    (Number of requirements covered by test cases / Total requirements) × 100%	       45 requirements covered out of 50 → 90% coverage
+
+
+Why Test Metrics Matter:
+
+Track progress: Know how much testing is completed.
+
+Improve quality: Identify weak areas in the product.
+
+Decision-making: Helps managers decide if the product is ready for release.
+
+Continuous improvement: Provides insights to refine testing strategies.
+
+3. Prepare a sample Defect Metrics in excel.
+
+here below i attached excel sheet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
